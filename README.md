@@ -30,21 +30,12 @@ I specialize in directing advanced AI agents and programmatic tools to build **w
 
 ## 🏆 Verified Credentials
 
-<p align="left">
-  <a href="https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-BigQuery_Data_Warehouse-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery Badge" />
-  </a>
-  <a href="https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-Compute_Engine_Load_Balancing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Compute Engine Badge" />
-  </a>
-  <br>
-  <a href="https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly" target="_blank">
-    <img src="https://img.shields.io/badge/The_Trade_Desk-13_Professional_Badges-009B74?style=for-the-badge" alt="The Trade Desk Badges" />
-  </a>
-</p>
-<p>
-  <em>Including <strong>Trading Essentials: Kokai, Data-Driven Planning, Retail Data Foundations, An Executive's Guide to CTV</strong>, and more. <a href="https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly" target="_blank">View all 15 badges on Credly</a>.</em>
-</p>
+[![BigQuery Badge](https://img.shields.io/badge/Google_Cloud-BigQuery_Data_Warehouse-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly)
+[![Compute Engine Badge](https://img.shields.io/badge/Google_Cloud-Compute_Engine_Load_Balancing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly)
+[![The Trade Desk Badges](https://img.shields.io/badge/The_Trade_Desk-13_Professional_Badges-009B74?style=for-the-badge)](https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly)
+
+*Including **Trading Essentials: Kokai, Data-Driven Planning, Retail Data Foundations, An Executive's Guide to CTV**, and more. [View all 15 badges on Credly](https://www.credly.com/users/cheng-yang.8ccf9fdd/badges#credly).*
+
 
 ---
 
