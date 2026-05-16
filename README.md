@@ -104,12 +104,18 @@ I specialize in directing advanced AI agents and programmatic tools to build **w
 *   **The Breakthrough**: Built a collaborative job-search engineering suite. Features a backend Python-based vector matcher (double-bag-of-words keyword weighting) that ranks master-profile bullet points dynamically, coupled with a native Chrome MV3 unpacked browser extension that intercepts DOM input prototypes to bypass React view-state sync constraints and auto-submits customized recruitment form queries.
 *   *Tech stack: Chrome MV3 API, Google Gemini API, Javascript (ES6), Python 3.*
 
+### [ChaosGuard](https://github.com/LockNStock/ChaosGuard)
+> **ChaosGuard: Adaptive Bayesian Scheduler**
+*   **The Problem**: Web-based automation agents (like those interacting with Gemini or recruitment portals) are highly susceptible to behavioral analysis and rate-limiting if they follow rigid, predictable task schedules.
+*   **The Breakthrough**: Engineered an environment-aware scheduling engine. It utilizes a **Dynamic Sliding Prime Window** (168 primes) to eliminate statistical frequency peaks, coupled with a **Bayesian Feedback Loop** that "senses" server latency and dynamically adjusts risk levels to throttle mission density in real-time.
+*   *Tech stack: Python 3, Bayesian Inference, Inhomogeneous Poisson Process (IPP), Math.*
+
 ---
 
 ## GitHub Metrics & Activities
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/LockNStock?style=for-the-badge&color=00f2fe&logo=github&logoColor=070b13" />
-  <img src="https://img.shields.io/badge/Projects-4_Active-00f2fe?style=for-the-badge&logo=github&logoColor=070b13" />
+  <img src="https://img.shields.io/badge/Projects-5_Active-00f2fe?style=for-the-badge&logo=github&logoColor=070b13" />
   <img src="https://komarev.com/ghpvc/?username=LockNStock&color=00f2fe&style=for-the-badge&label=Profile+Views&logo=redis&logoColor=070b13" />
 </p>
