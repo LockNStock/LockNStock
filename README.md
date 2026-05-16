@@ -105,10 +105,10 @@ I specialize in directing advanced AI agents and programmatic tools to build **w
 *   *Tech stack: Chrome MV3 API, Google Gemini API, Javascript (ES6), Python 3.*
 
 ### [ChaosGuard](https://github.com/LockNStock/ChaosGuard)
-> **ChaosGuard: Adaptive Bayesian Scheduler**
+> **ChaosGuard: Adaptive Bayesian Scheduler (v9.0 Flagship)**
 *   **The Problem**: Web-based automation agents (like those interacting with Gemini or recruitment portals) are highly susceptible to behavioral analysis and rate-limiting if they follow rigid, predictable task schedules.
-*   **The Breakthrough**: Engineered an environment-aware scheduling engine. It utilizes a **Dynamic Sliding Prime Window** (168 primes) to eliminate statistical frequency peaks, coupled with a **Bayesian Feedback Loop** that "senses" server latency and dynamically adjusts risk levels to throttle mission density in real-time.
-*   *Tech stack: Python 3, Bayesian Inference, Inhomogeneous Poisson Process (IPP), Math.*
+*   **The Breakthrough**: Engineered an environment-aware scheduling engine. It utilizes a **10,000 Prime Domain (1,229 seeds)** to eliminate statistical frequency peaks, coupled with a **Bayesian Feedback Loop** that "senses" server latency. Features **Dual-Profile Interaction (Smooth vs. High-Contrast)** to mimic specific human cognitive states during long-form Web/LLM sessions.
+*   *Tech stack: Python 3, Bayesian Inference, Inhomogeneous Poisson Process (IPP), Chaos Theory.*
 
 ---
 
